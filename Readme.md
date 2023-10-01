@@ -23,7 +23,7 @@ This is a simple C++ program that simulates the instruction life cycle of a simp
 3. **View the Output**:
    The program will execute the fetch-decode-execute cycle for a series of sample instructions and display the state of the CPU and memory at each step. You will see the output in the terminal.
 
-## Op Codes
+## Opt Codes
 
 The program defines the following op codes to represent different operations:
 
