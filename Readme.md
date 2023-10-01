@@ -58,10 +58,11 @@ The program uses an array to represent the memory of the computer. In this case,
 
 ## Sample Programs
 
-The program includes two sample programs:
+The program includes a sample program:
 
-1. **Program 1**:
+1. **Program**:
    - Calculates the result of adding 7 and 4, subtracting 5 from the result, and finally multiplying the result by 3 and then halts.
+   - You can add more such programs.
 
 ## Program Execution
 
